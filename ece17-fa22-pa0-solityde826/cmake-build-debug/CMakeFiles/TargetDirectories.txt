@@ -1,0 +1,4 @@
+/Users/chengzhangao/CLionProjects/ece17-fa22-pa0-solityde826/cmake-build-debug/CMakeFiles/pa0.dir
+/Users/chengzhangao/CLionProjects/ece17-fa22-pa0-solityde826/cmake-build-debug/CMakeFiles/test.dir
+/Users/chengzhangao/CLionProjects/ece17-fa22-pa0-solityde826/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/chengzhangao/CLionProjects/ece17-fa22-pa0-solityde826/cmake-build-debug/CMakeFiles/rebuild_cache.dir
